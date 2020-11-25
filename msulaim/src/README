@@ -1,0 +1,6 @@
+
+To compile use:
+javac game/Rogue.java
+
+To run use:
+java game.Rogue <xmlfilename>
